@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "https://picsum.photos/200",
+      "price": 9000,
+      "brand": "Nike",
+      "name": "Men's Running Shoes",
+      "gender": "female",
+      "category": "bottom-wear"
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/200",
+      "price": 39.99,
+      "brand": "Adidas",
+      "name": "Women's Sneakers",
+      "gender": "female",
+      "category": "bottom-wear"
+    },
+    {
+      "id": 3,
+      "image": "https://picsum.photos/200",
+      "price": 19.99,
+      "brand": "Puma",
+      "name": "Kid's T-Shirt",
+      "gender": "male",
+      "category": "top-wear"
+    },
+    {
+      "id": 4,
+      "image": "https://picsum.photos/200",
+      "price": 79.99,
+      "brand": "Apple",
+      "name": "AirPods Pro",
+      "gender": "male",
+      "category": "top-wear"
+    },
+    {
+      "id": 5,
+      "image": "https://picsum.photos/200",
+      "price": 49.99,
+      "brand": "Sony",
+      "name": "Wireless Headphones",
+      "gender": "male",
+      "category": "top-wear"
+    },
+    {
+      "name": "kids'wear",
+      "image": "https://picsum.photos/200",
+      "brand": "addidas",
+      "price": 999,
+      "gender": "male",
+      "category": "bottom-wear",
+      "id": 6
+    }
+  ]
+}
